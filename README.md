@@ -1,2 +1,2 @@
 # Lyrical-GraphQL
-Starter project from a GraphQL course on Udemy.com
+A simple song and lyrics creation app developed by React.js, GraphQL, Apollo, and mongoDB
