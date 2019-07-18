@@ -9,7 +9,7 @@ const app = express();
 
 // Replace with your mongoLab URI
 const MONGO_URI =
-  'mongodb+srv://Arisa:N211121b1109@lyricaldb-vdaye.mongodb.net/test?retryWrites=true&w=majority';
+  '<Your URI>';
 if (!MONGO_URI) {
   throw new Error('You must provide a MongoAtlas URI');
 }
